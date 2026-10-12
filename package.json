@@ -1,0 +1,24 @@
+{
+  "name": "visualguard",
+  "version": "1.0.0",
+  "description": "Spatial Guardrail Gateway & Perception Firewall for Agentic Vision & Physical AI (OpenCV 5 + AWS)",
+  "main": "src/index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/visualguard.test.mjs",
+    "demo": "node demo.mjs"
+  },
+  "keywords": [
+    "opencv",
+    "computer-vision",
+    "agentic-vision",
+    "physical-ai",
+    "spatial-guardrails",
+    "prompt-injection-defense",
+    "mcp",
+    "aws-bedrock",
+    "security-firewall"
+  ],
+  "author": "Siddharth Srivastava (sidsri14)",
+  "license": "MIT"
+}
